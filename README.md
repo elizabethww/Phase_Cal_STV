@@ -8,4 +8,5 @@ This project focuses on quantifying the short-term flux density stability of a c
 
 ### Key Features
 * **Variability Metrics:** Calculation of the Variability Index ($\mathrm{VI}$) and statistics per scan to identify statistically significant fluctuations.
-
+* **E.g Scan ($\mathrm{VI}$):**
+![Alt Text](images/src000000avg_vi_4s.png)
